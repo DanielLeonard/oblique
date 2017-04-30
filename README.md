@@ -1,4 +1,4 @@
-Oblique Strategies
+Raspberry pi test
 ==================
 
-A wee repo for our ‘Oblique Strategies’ masterclass.
+A repo used for the testing of my raspberry pi.
